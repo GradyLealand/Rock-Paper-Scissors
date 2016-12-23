@@ -1,0 +1,1 @@
+pyuic5 -x RPSGui.ui -o RPS_Lib.py
